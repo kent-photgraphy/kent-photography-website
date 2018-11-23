@@ -26,6 +26,7 @@ footer p {
   text-align: right;
 }
 
+<<<<<<< HEAD
 .container {
   position: relative;
   text-align: center;
@@ -37,4 +38,8 @@ footer p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%)
+=======
+.underline {
+  border-bottom: 2px solid #000;
+>>>>>>> 972dc063045c1a85416f1939070e351bdde701b6
 }
