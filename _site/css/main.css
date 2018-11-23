@@ -17,3 +17,11 @@ a {
   padding: 10px 24px;
   border-radius: 4px;
 }
+
+footer {
+  background-color: #f5f5f5;
+}
+
+footer p {
+  text-align: right;
+}
