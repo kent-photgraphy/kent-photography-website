@@ -25,3 +25,16 @@ footer {
 footer p {
   text-align: right;
 }
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #ffffff;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
