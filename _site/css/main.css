@@ -25,3 +25,7 @@ footer {
 footer p {
   text-align: right;
 }
+
+.underline {
+  border-bottom: 2px solid #000;
+}
