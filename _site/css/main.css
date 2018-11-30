@@ -1,0 +1,40 @@
+.highlight {
+  color: #ffa177;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.btn {
+  background-color: #e5c952;
+  color: #000000;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 24px;
+  border-radius: 4px;
+}
+
+footer {
+  background-color: #f5f5f5;
+}
+
+footer p {
+  text-align: right;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #ffffff;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}

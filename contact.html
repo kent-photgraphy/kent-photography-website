@@ -1,14 +1,46 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Contact</title>
-  <link href="css/modules.css" rel="stylesheet">
-  <link href="css/grid.css" rel="stylesheet">
-  <link href="css/type.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-</head>
-<body>
+---
+layout: default
+itle: Contact Bill • Kent Photgraphy
+meta: Get in touch with Bill to enquire abouthis services or to get a quote.
+---
+<section class="contact pad-b-2 grid">
+  <div class="unit xs-1 s-1 m-1-2 l-1-2 island-2">
+    <div class="max-length">
+      <h2 class="mega push-1-4">Contact</h2>
+      <p>Use the form below to connect with Bill or you could just drop him an <a href="mailto:bill@kentgroup.net">email</a></p>
 
-</body>
-</html>
+      <form class="push-0" method="POST" action="https://formspree.io/srid0002@algonquinlive.com">
+        <div class="push">
+          <label for="name">Name</label>
+          <input id="name">
+        </div>
+        <div class="push">
+          <label for="email">Your email</label>
+          <input id="email" type="email" placeholder="me@me.com">
+        </div>
+        <div class="push">
+          <label for="subject">Subject</label>
+          <select id="subject">
+            <option>Request a quote</option>
+            <option>General question</option>
+            <option>Just to talk</option>
+          </select>
+        </div>
+        <div class="push">
+          <label for="details">Your message</label>
+          <textarea id="details"></textarea>
+        </div>
+        <div>
+          <button type="submit">Send message</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="unit xs-1 s-1 m-1-2 l-1-2 island-2">
+    <p><strong>Follow Bill on</strong></p>
+    <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.facebook.com/bill.kent.566">Facebook</a></li>
+      <li class="list-group-item"><a href="https://www.behance.net/billkent">Behance</a></li>
+    </ul>
+  </div>
+</section>
