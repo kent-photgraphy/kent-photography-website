@@ -9,7 +9,7 @@ meta: Get in touch with Bill to enquire abouthis services or to get a quote.
       <h2 class="mega push-1-4">Contact</h2>
       <p>Use the form below to connect with Bill or you could just drop him an <a href="mailto:bill@kentgroup.net">email</a></p>
 
-      <form class="push-0" method="POST" action="https://formspree.io/srid0002@algonquinlive.com">
+      <form class="push-0" method="POST" netlify>
         <div class="push">
           <label for="name">Name</label>
           <input id="name">
@@ -39,8 +39,7 @@ meta: Get in touch with Bill to enquire abouthis services or to get a quote.
   <div class="unit xs-1 s-1 m-1-2 l-1-2 island-2">
     <p><strong>Follow Bill on</strong></p>
     <ul class="list-group">
-      <li class="list-group-item"><a href="https://www.facebook.com/bill.kent.566">Facebook</a></li>
-      <li class="list-group-item"><a href="https://www.behance.net/billkent">Behance</a></li>
+      <li class="list-group-item"><a href="{{site.data.contact.socialmedialinkUrl}}">{{site.data.contact.socialmedialink}}</a></li>
     </ul>
   </div>
 </section>

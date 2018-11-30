@@ -18,3 +18,17 @@ collections:
           - label: "Image"
             name: "image"
             widget: "image"
+      - label: "Contact page"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields:
+          - label: "Social media Link"
+            name: "socialmedialink"
+            widget: "list"
+            fields:
+              - label: "Social media Link"
+                name: "socialmedialink"
+                widget: "string"
+              - label: "Social media Link URL"
+                name: "socialmedialinkUrl"
+                widget: "string"
