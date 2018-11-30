@@ -14,7 +14,7 @@ collections:
         fields:
           - label: "Text"
             name: "text"
-            widget: "string"
+            widget: "text"
           - label: "Image"
             name: "image"
             widget: "image"
