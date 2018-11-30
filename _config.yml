@@ -1,5 +1,1 @@
-backend:
-  name: github
-  repo: kent-photgraphy/kent-photography-website
-
-media_folder: "images/uploads"
+permalink: pretty
