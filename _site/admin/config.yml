@@ -26,9 +26,9 @@ collections:
             name: "socialmedialink"
             widget: "list"
             fields:
-              - label: "Social media Link"
+              - label: "Social media name"
                 name: "socialmedialink"
                 widget: "string"
-              - label: "Social media Link URL"
+              - label: "Social media link"
                 name: "socialmedialinkUrl"
                 widget: "string"
