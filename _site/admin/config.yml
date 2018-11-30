@@ -22,8 +22,8 @@ collections:
         name: "contact"
         file: "_data/contact.yml"
         fields:
-          - label: "Social media Link"
-            name: "socialmedialink"
+          - label: "Social media"
+            name: "socialmedia"
             widget: "list"
             fields:
               - label: "Social media name"
