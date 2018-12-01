@@ -23,6 +23,15 @@ header {
   max-height: 150px;
 }
 
+.section-text {
+  padding: 2em;
+  text-align: center;
+}
+
+.section-work {
+  background
+}
+
 footer {
   background-color: #f5f5f5;
 }
@@ -30,6 +39,14 @@ footer {
 footer p {
   text-align: right;
 }
+
+.banner-head {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url("../images/greece-landscape.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 85vh;
+  }
 
 .container {
   position: relative;
