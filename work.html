@@ -13,6 +13,11 @@ img3: ../images/m-jean.jpg
     <li class="list-group-items gutter-2"><a class="underline" href="#">Events</a></li>
     <li class="list-group-items gutter-2"><a class="underline" href="#">Potraits</a></li>
   </ul>
-
 </div>
-{% include work-play.html %}
+<div class="grid">
+  {% for work in site.posts %}
+  <div class="unit xs-1 s-1 m-1-2 l-1-2">
+    {% include work.html %}
+  </div>
+  {% endfor %}
+</div>
