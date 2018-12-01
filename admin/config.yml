@@ -1,0 +1,56 @@
+backend:
+  name: github
+  repo: kent-photgraphy/kent-photography-website
+
+media_folder: "images/uploads"
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "About page"
+        name: "about"
+        file: "_data/about.yml"
+        fields:
+          - label: "Text"
+            name: "text"
+            widget: "text"
+          - label: "Image"
+            name: "image"
+            widget: "image"
+      - label: "Contact page"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields:
+          - label: "Social media"
+            name: "socialmedia"
+            widget: "list"
+            fields:
+              - label: "Social media name"
+                name: "socialmedialink"
+                widget: "string"
+              - label: "Social media link"
+                name: "socialmedialinkUrl"
+                widget: "string"
+  - label: "Work"
+    name: "work"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "posts"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "desc"
+        widget: "string"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Thumbnail image"
+        name: "thumb"
+        widget: "image"
