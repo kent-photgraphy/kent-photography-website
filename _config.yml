@@ -5,6 +5,7 @@ collections:
     about:
     contact:
     services:
+      allservices:
   work:
     output: true
     permalink: /:collection/:year/:month/:slug/

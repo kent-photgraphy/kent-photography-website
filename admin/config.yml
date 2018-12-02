@@ -41,7 +41,7 @@ collections:
             widget: "list"
             fields:
               - label: "Services"
-                name: "services"
+                name: "servicesname"
                 widget: "string"
               - label: "Services link"
                 name: "serviceslink"
