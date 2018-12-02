@@ -1,9 +1,16 @@
 html {
-  background-color: #323333;
+  background-color: #5c5560;
+  font-family: 'PT Sans', sans-serif;
   }
 
+h1,
+h2,
+h3 {
+  font-family: 'PT Serif', serif;
+}
+
 .highlight {
-  color: #ffa177;
+  color: #faa91a;
 }
 
 a {
@@ -12,7 +19,7 @@ a {
 }
 
 .btn {
-  background-color: #e5c952;
+  background-color: #faa91a;
   color: #000000;
   border: none;
   text-align: center;
@@ -22,7 +29,7 @@ a {
   border-radius: 4px;
 }
 header {
-  background-color: white;
+  background-color: #eaeaea;
   z-index: 1000;
   max-height: 150px;
 }
@@ -40,11 +47,12 @@ header {
 }
 
 footer {
-  background-color: #969A97;
+  background-color: #eaeaea;
 }
 
 footer p span {
   text-align: right;
+  color: #969a97;
 }
 
 .banner-head {
