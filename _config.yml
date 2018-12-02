@@ -1,7 +1,6 @@
 permalink: pretty
 
 collections:
-  pages:
   work:
     output: true
     permalink: /:collection/:year/:month/:slug/
