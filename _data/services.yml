@@ -1,1 +1,85 @@
-services: []
+allservices:
+  - servicesimage: /images/uploads/rome-19-.jpg
+    serviceslink: commercialwork
+    servicesname: Commercial Photography
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
+  - servicesimage: /images/uploads/ross-rifle.jpg
+    serviceslink: productphotography
+    servicesname: Product Photography
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
+  - servicesimage: /images/uploads/rome-19-.jpg
+    serviceslink: architecturalphotography
+    servicesname: Architectural Photography
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
+  - servicesimage: /images/uploads/portfolio-22-.jpg
+    serviceslink: industrialphotography
+    servicesname: Industrial Photography
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
+  - servicesimage: /images/uploads/the-pimple-ay-jackson.jpg
+    serviceslink: artphotography
+    servicesname: Art Photography
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
+  - servicesimage: /images/uploads/ironman.jpg
+    serviceslink: workshops
+    servicesname: Workshops
+    servicestext: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+      nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
+      urna eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis
+      elit vitae justo vehicula congue. Nulla a tellus lectus. Cras ex sem,
+      maximus at fermentum ut, tristique non ligula. Proin venenatis, magna
+      efficitur ultrices malesuada, ex sem vulputate dui, non placerat urna mi
+      quis nunc. Fusce a posuere tellus, vitae efficitur odio. Fusce accumsan
+      velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
+      dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
+      eu enim finibus tempus.
