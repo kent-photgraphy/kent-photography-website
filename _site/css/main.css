@@ -59,6 +59,7 @@ a {
 header {
   background-color: #eaeaea;
   z-index: 1000;
+  max-height: 150px;
 }
 
 .section-text {
@@ -116,20 +117,4 @@ footer p span {
   display: inline-block;
   text-align: left;
   color: #333333;
-}
-
-@media only screen and (min-width: 20em) {
-
-  .icon img {
-    left: 100%;
-  }
-
-}
-
-@media only screen and (min-width: 38em) {
-
-  .icon img {
-    left: 0;
-  }
-
 }

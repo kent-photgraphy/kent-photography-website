@@ -5,9 +5,16 @@ meta: About Bill, his travel experiences and his interests.
 ---
 
 <div class="grid">
-  {% for work in site.play %}
+  {% for play in site.play %}
   <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    {% include play-thumb.html data=work %}
+    <article class="card">
+      <a class="block island-2" href="{{play.url}}">
+        <div class="embed embed-3by2">
+          <img class="embed-item" src="{{play.thumb}}" alt="">
+          <p class="absolute pin-tl zindex-3">{{play.mainfigcaption}}</p>
+        </div>
+      </a>
+    </article>
   </div>
   {% endfor %}
 </div>
