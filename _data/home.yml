@@ -1,2 +1,12 @@
-banner:
-mainsection:
+heading: 'At Kent Photography, we focus on creating a memorable experience.'
+text: >-
+  With decades of entrepreneurial and photographic experience, Kent photography
+  offers diverse services from fine art photography to photo restoration
+  services.
+body: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
+  nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis urna
+  eget risus. Aliquam luctus massa ac facilisis facilisis. Nunc quis elit vitae
+  justo vehicula congue. Nulla a tellus lectus. Cras ex sem, maximus at
+  fermentum ut, tristique non ligula. Proin venenatis, magna efficitur ultrices
+  malesuada, ex sem vulputate dui, non placerat urna mi quis nunc. 
