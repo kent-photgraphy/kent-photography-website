@@ -33,7 +33,7 @@ collections:
                 name: "socialmedialinkUrl"
                 widget: "string"
       - label: "Services page"
-        name: "service"
+        name: "services"
         file: "_data/services.yml"
         fields:
           - label: "Services"

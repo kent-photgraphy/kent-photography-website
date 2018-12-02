@@ -4,7 +4,7 @@ collections:
   pages:
     about:
     contact:
-    service:
+    services:
   work:
     output: true
     permalink: /:collection/:year/:month/:slug/
