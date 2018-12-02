@@ -3,6 +3,7 @@ layout: posts
 title: Industrial
 desc: Industrial Work
 thumb: /images/uploads/portfolio-22-.jpg
+mainfigcaption: Industrial equipment
 text: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
   nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis urna
@@ -31,3 +32,4 @@ images:
   - figcaption: Library at night
   - image: /images/uploads/library-at-night-4.jpg
 ---
+
