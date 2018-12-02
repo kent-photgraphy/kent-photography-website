@@ -37,7 +37,7 @@ collections:
         file: "_data/services.yml"
         fields:
           - label: "Services"
-            name: "services"
+            name: "allservices"
             widget: "list"
             fields:
               - label: "Services"
