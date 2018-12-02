@@ -1,7 +1,7 @@
 permalink: pretty
 
 collections:
-  pages:
+  data:
     output: true
   work:
     output: true
