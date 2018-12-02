@@ -1,7 +1,7 @@
 allservices:
-  - services: Commercial Work
-    servicesimage: /images/uploads/rome-19-.jpg
+  - servicesimage: /images/uploads/rome-19-.jpg
     serviceslink: commercialwork
+    servicesname: Commercial Photography
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
@@ -13,9 +13,9 @@ allservices:
       velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
       dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
       eu enim finibus tempus.
-  - services: Product Photography
-    servicesimage: /images/uploads/ross-rifle.jpg
+  - servicesimage: /images/uploads/ross-rifle.jpg
     serviceslink: productphotography
+    servicesname: Product Photography
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
@@ -27,9 +27,9 @@ allservices:
       velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
       dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
       eu enim finibus tempus.
-  - services: Architectural Photography
-    servicesimage: /images/uploads/rome-19-.jpg
+  - servicesimage: /images/uploads/rome-19-.jpg
     serviceslink: architecturalphotography
+    servicesname: Architectural Photography
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
@@ -41,9 +41,9 @@ allservices:
       velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
       dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
       eu enim finibus tempus.
-  - services: Industrial Photography
-    servicesimage: /images/uploads/portfolio-22-.jpg
+  - servicesimage: /images/uploads/portfolio-22-.jpg
     serviceslink: industrialphotography
+    servicesname: Industrial Photography
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
@@ -55,9 +55,9 @@ allservices:
       velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
       dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
       eu enim finibus tempus.
-  - services: Art Photography
-    servicesimage: /images/uploads/the-pimple-ay-jackson.jpg
+  - servicesimage: /images/uploads/the-pimple-ay-jackson.jpg
     serviceslink: artphotography
+    servicesname: Art Photography
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
@@ -69,9 +69,9 @@ allservices:
       velit vel ligula faucibus, vitae malesuada magna hendrerit. Suspendisse
       dapibus eu sem vitae pharetra. Duis eu sodales risus. Fusce posuere orci
       eu enim finibus tempus.
-  - services: Workshops
-    servicesimage: /images/uploads/ironman.jpg
+  - servicesimage: /images/uploads/ironman.jpg
     serviceslink: workshops
+    servicesname: Workshops
     servicestext: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod,
       nulla vitae cursus tempor, ex dui laoreet ipsum, sed consectetur turpis
