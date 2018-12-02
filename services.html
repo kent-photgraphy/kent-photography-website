@@ -7,15 +7,15 @@ meta: Services offered by Bill Kent
 <section class="">
   <h2>Services</h2>
   <ul class="list-group-inline">
-    {% for work in site.data.services %}
+    {% for work in site.data.services.allservices %}
       {% include services-list.html data=work %}
     {% endfor %}
   </ul>
-  <!-- <div class="services#{{site.data.allservices.serviceslink}}">
+  <div class="services#{{site.data.services.allservices.serviceslink}}">
     {% for work in site.data.services %}
       {% include services-main.html data=work %}
     {% endfor %}
-  </div> -->
+  </div>
 
   <h2>Workshops</h2>
 
