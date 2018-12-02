@@ -24,6 +24,22 @@ p {
   color: #faa91a;
 }
 
+.white-bg {
+  background-color: #fff;
+}
+
+.white {
+  color: #fff;
+}
+
+.dark-grey {
+  color: #333333;
+}
+
+.underline {
+  border-bottom: 2px solid #333333;
+}
+
 a {
   text-decoration: none;
   color: #000000;

@@ -54,7 +54,7 @@ collections:
         fields:
           - label: "Services"
             name: "allservices"
-            widget: "object"
+            widget: "list"
             fields:
               - label: "Services"
                 name: "servicesname"

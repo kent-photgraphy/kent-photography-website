@@ -5,20 +5,34 @@ meta: Services offered by Bill Kent
 ---
 
 <section class="">
-  <h2>Services</h2>
-  <ul class="list-group-inline">
-    {% for work in site.data.services %}
-    <li class="list-group-item">
-      <a href="{{site.data.services.allservices.serviceslink}}">{{site.data.services.allservices.servicesname}}</a>
-    </li>
-    {% endfor %}
-  </ul>
-  <div class="services#{{site.data.services.allservices.serviceslink}}">
-    {% for work in site.data.services %}
-      {% include services-main.html data=work %}
-    {% endfor %}
+  <div class="white-bg pad-t pad-b">
+    <h2 class="push-1-2 gutter-2 dark-grey">Services</h2>
+    <ul class="list-group-inline">
+      {% for service in site.data.services.allservices %}
+      <li class="list-group-item gutter-2 pad-b-1-2">
+        <a class="underline" href="#{{service.serviceslink}}">{{service.servicesname}}</a>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
+  {% for service in site.data.services.allservices %}
+    <div id="{{service.serviceslink}}">
+      <div class="grid island-2">
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">
+          <h4 class="white">{{service.servicesname}}</h4>
+          <p class="micro">{{service.servicestext}}</p>
+        </div>
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 island-1-2">
+          <div class="embed embed-3by2">
+            <img class="embed-item img-flex" src="{{service.servicesimage}}" alt="">
+          </div>
+        </div>
+      </div>
 
-  <h2>Workshops</h2>
+    </div>
+  {% endfor %}
+  <div class="text-center pad-b">
+    {% include button.html %}
+  </div>
 
 </section>
