@@ -1,5 +1,7 @@
 services:
   - services: Commercial Work
-    servicesheading: Commercial Work
     servicesimage: /images/uploads/rome-19-.jpg
     serviceslink: commercialwork
+  - services: Product Photography
+    servicesimage: /images/uploads/ross-rifle.jpg
+    serviceslink: productphotography
