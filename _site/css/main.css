@@ -74,6 +74,11 @@ footer p span {
   height: 85vh;
   }
 
+.filter {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4));
+  height: 80vh;
+}
+
 .container {
   position: relative;
   text-align: center;
