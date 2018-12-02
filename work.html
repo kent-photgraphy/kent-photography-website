@@ -12,9 +12,9 @@ meta: About Bill, his work and his interests.
   </ul>
 </div>
 <div class="grid">
-  {% for work in site.posts %}
+  {% for work in site.work %}
   <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    {% include work-play-thumb.html data=work %}
+    {% include work-thumb.html data=work %}
   </div>
   {% endfor %}
 </div>
