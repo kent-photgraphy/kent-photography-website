@@ -12,6 +12,9 @@ collections:
         name: "home"
         file: "_data/home.yml"
         fields:
+          - label: "Banner Image"
+            name: "bannerimage"
+            widget: "image"
           - label: "Heading"
             name: "heading"
             widget: "string"
