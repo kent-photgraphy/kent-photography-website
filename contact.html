@@ -39,9 +39,11 @@ meta: Get in touch with Bill to enquire abouthis services or to get a quote.
   <div class="unit xs-1 s-1 m-1-2 l-1-2 island-2">
     <h2 class="giga" >Follow Bill on</h2>
     <ul class="list-group">
-      <li class="list-group-item">
-        <a href="{{site.data.contact.socialmedia.socialmedialinkUrl}}">{{site.data.contact.socialmedia.socialmedialink}}</a>
-      </li>
+      {% for social in site.data.contact.socialmedia %}
+        <li class="list-group-item">
+          <a class="white" href="{{social.socialmedialinkUrl}}">{{social.socialmedialink}}</a>
+        </li>
+        {% endfor %}
     </ul>
   </div>
 </section>

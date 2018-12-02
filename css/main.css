@@ -82,14 +82,6 @@ footer p span {
   color: #969a97;
 }
 
-.banner-head {
-  /* background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url("../images/greece-landscape.jpg"); */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 85vh;
-  }
-
 .filter {
   opacity: .4;
   height: 70vh;
