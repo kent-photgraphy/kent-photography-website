@@ -1,3 +1,7 @@
+html {
+  background-color: #323333;
+  }
+
 .highlight {
   color: #ffa177;
 }
@@ -26,17 +30,17 @@ header {
 .section-text {
   padding: 2em;
   text-align: center;
+  color: #ffffff;
 }
 
 .section-work {
-  background: #6B7580;
   width: 100%;
   padding: 2em;
   text-align: center;
 }
 
 footer {
-  background-color: #f5f5f5;
+  background-color: #969A97;
 }
 
 footer p span {
@@ -62,4 +66,14 @@ footer p span {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%)
+}
+
+.footer-container {
+  text-align: center;
+  padding-top: 2em;
+}
+
+.footer-content {
+  display: inline-block;
+  text-align: left;
 }
