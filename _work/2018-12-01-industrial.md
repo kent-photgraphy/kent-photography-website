@@ -29,6 +29,5 @@ text: >-
   lacus.
 images:
   - figcaption: Library at night
-    image: /images/uploads/library-at-night-4.jpg
+  - image: /images/uploads/library-at-night-4.jpg
 ---
-
