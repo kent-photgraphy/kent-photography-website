@@ -2,7 +2,10 @@ permalink: pretty
 
 collections:
   data:
-    output: true
+    about:
+    contact:
+    services:
+      output: true
   work:
     output: true
     permalink: /:collection/:year/:month/:slug/
