@@ -67,7 +67,7 @@ footer p span {
 }
 
 .banner-head {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url("../images/greece-landscape.jpg");
+  /* background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url("../images/greece-landscape.jpg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
