@@ -63,3 +63,13 @@ footer p span {
   left: 50%;
   transform: translate(-50%, -50%)
 }
+
+.footer-container {
+  text-align: center;
+  padding-top: 2em;
+}
+
+.footer-content {
+  display: inline-block;
+  text-align: left;
+}
