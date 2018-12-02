@@ -1,1 +1,6 @@
 permalink: pretty
+
+collections:
+  pages:
+  work:
+  play:

@@ -31,4 +31,3 @@ images:
   - figcaption: Address
     image: /images/uploads/portfolio-26-.jpg
 ---
-
