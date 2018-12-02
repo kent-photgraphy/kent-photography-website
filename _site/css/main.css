@@ -1,12 +1,23 @@
 html {
-  background-color: #5c5560;
+  background-color: #333333;
   font-family: 'PT Sans', sans-serif;
-  }
+}
 
 h1,
 h2,
 h3 {
   font-family: 'PT Serif', serif;
+}
+
+label {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h2,
+h5,
+label,
+p {
+  color: #eaeaea;
 }
 
 .highlight {
@@ -28,6 +39,7 @@ a {
   padding: 10px 24px;
   border-radius: 4px;
 }
+
 header {
   background-color: #eaeaea;
   z-index: 1000;
@@ -37,7 +49,6 @@ header {
 .section-text {
   padding: 2em;
   text-align: center;
-  color: #ffffff;
 }
 
 .section-work {
@@ -84,4 +95,5 @@ footer p span {
 .footer-content {
   display: inline-block;
   text-align: left;
+  color: #333333;
 }
