@@ -29,14 +29,17 @@ header {
 }
 
 .section-work {
-  background
+  background: #6B7580;
+  width: 100%;
+  padding: 2em;
+  text-align: center;
 }
 
 footer {
   background-color: #f5f5f5;
 }
 
-footer p {
+footer p span {
   text-align: right;
 }
 
