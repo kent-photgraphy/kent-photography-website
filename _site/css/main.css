@@ -109,3 +109,27 @@ footer p span {
   text-align: left;
   color: #333333;
 }
+
+@media only screen and (min-width: 20em) {
+
+  .show {
+    display: none;
+  }
+
+  .hide {
+    display: block;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .show {
+    display: block;
+  }
+
+  .hide {
+    display: none;
+  }
+
+}
