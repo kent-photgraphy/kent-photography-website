@@ -59,7 +59,6 @@ a {
 header {
   background-color: #eaeaea;
   z-index: 1000;
-  max-height: 150px;
 }
 
 .section-text {
