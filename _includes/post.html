@@ -15,11 +15,13 @@
     <p class="milli">{{page.text}}</p>
   </div>
   <div class="grid collection">
+    {% for post in page.images %}
     <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter-2">
       <figure class="relative">
-        <img class="img-flex" src="{{page.image}}" alt="">
-        <figcaption class="absolute pin-t milli italic">{{page.figcaption}}</figcaption>
+        <img class="img-flex" src="{{post.image}}" alt="">
+        <figcaption class="absolute pin-t micro italic white">{{post.figcaption}}</figcaption>
       </figure>
     </div>
+  {% endfor %}
   </div>
 </section>
