@@ -110,6 +110,10 @@ footer p span {
   color: #333333;
 }
 
+.bg-grey {
+  background-color: rgba(#716f6f, 0.72);
+}
+
 @media only screen and (min-width: 20em) {
 
   .show {
