@@ -1,0 +1,25 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Shrinidhi Sridhar <reachme@shrinidhi.design>
+Designer: Jhon Tolentino
+<jhontolentino@ymail.com>
+Designer: Olivia Barton
+<olivialynnbarton@outlook.com>
+Designer: Petra Van Eeghen
+<petraeeghen@gmail.com>
+
+Client: Bill Kent
+Business: Kent photography
+<bill@kentphotography.net>
+Site: http://kentphotography.ca
+
+Images: ©Bill Kent
+
+---
+
+# THANKS
+
+- Thomas J.Bradley
+- Jed Looker
