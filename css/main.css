@@ -112,6 +112,7 @@ footer p span {
 
 .bg-grey {
   background-color: #716f6f;
+  opacity: .6;
 }
 
 @media only screen and (min-width: 20em) {
