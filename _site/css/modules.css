@@ -288,6 +288,11 @@ svg.img-flex {
   width: 192px;
 }
 
+.i-224, .i--224 {
+  height: 224px;
+  width: 224px;
+}
+
 .i-256, .i--256 {
   height: 256px;
   width: 256px;

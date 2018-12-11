@@ -46,7 +46,7 @@ a {
 }
 
 .btn {
-  background-color: #faa91a;
+  background-color: #087d96;
   color: #000000;
   border: none;
   text-align: center;
@@ -110,6 +110,11 @@ footer p span {
   color: #333333;
 }
 
+.bg-grey {
+  background-color: #716f6f;
+  opacity: .6;
+}
+
 @media only screen and (min-width: 20em) {
 
   .show {
@@ -118,6 +123,14 @@ footer p span {
 
   .hide {
     display: block;
+  }
+
+  .logo {
+    text-align: center;
+  }
+
+  .nav {
+    padding-top: 0;
   }
 
 }
@@ -130,6 +143,14 @@ footer p span {
 
   .hide {
     display: none;
+  }
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    padding-top: 2.5rem;
   }
 
 }
